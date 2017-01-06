@@ -20,6 +20,6 @@ public class PrintNames {
          System.out.println("Sun");
          System.out.println("Pohn");
          System.out.println("Cowpoon");
-         System.out.println("Aum");
+         System.out.println("Aom");
     }
 }

@@ -9,7 +9,7 @@ public class PrintNames {
          System.out.println("Bot");
          System.out.println("Jene");
          System.out.println("Lilee");
-         System.out.println("Whin");
+         System.out.println("Win");
          System.out.println("Non ohh");
          System.out.println("Youyou");
          System.out.println("Boom See");

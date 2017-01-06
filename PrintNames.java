@@ -22,5 +22,6 @@ public class PrintNames {
          System.out.println("Aom");
          System.out.println("Hack");
          System.out.println("Conflict");
-
+    }
+}
 

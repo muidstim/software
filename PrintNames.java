@@ -13,7 +13,7 @@ public class PrintNames {
          System.out.println("Non ohh");
          System.out.println("Boom C");
          System.out.println("Yuyu");
-         System.out.println("Boom Kay");
+         System.out.println("Boom K");
          System.out.println("James Bourne");
          System.out.println("Porsche");
          System.out.println("Pun (Da Cutest Guy Evarrr!)");

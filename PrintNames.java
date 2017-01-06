@@ -4,13 +4,12 @@ public class PrintNames {
      * replace your name with a System.out.println() statement to print your name
      */
     public static void printYourNames() {
-    
          System.out.println("Mr.Bacon");
          System.out.println("Bat");
          System.out.println("Jean");
          System.out.println("Lily");
          System.out.println("Win");
-         System.out.println("Non ohh");
+         System.out.println("Non");
          System.out.println("Boom C");
          System.out.println("Yuyu");
          System.out.println("Boom Kay");

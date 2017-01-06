@@ -8,7 +8,7 @@ public class PrintNames {
          System.out.println("Mr.Bacon");
          System.out.println("Bot");
          System.out.println("Jean");
-         System.out.println("Lilee");
+         System.out.println("Lily");
          System.out.println("Win");
          System.out.println("Non ohh");
          System.out.println("Yuyu");

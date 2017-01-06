@@ -11,7 +11,7 @@ public class PrintNames {
          System.out.println("Lilee");
          System.out.println("Win");
          System.out.println("Non ohh");
-         System.out.println("Youyou");
+         System.out.println("Yuyu");
          System.out.println("Boom See");
          System.out.println("Boom Kay");
          System.out.println("Jaymes");

@@ -19,7 +19,7 @@ public class PrintNames {
          System.out.println("Poursh");
          System.out.println("Sun");
          System.out.println("Pohn");
-         System.out.println("Cowpoon");
+         System.out.println("Khaowpoon");
          System.out.println("Aum");
     }
 }

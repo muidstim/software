@@ -10,7 +10,7 @@ public class PrintNames {
          System.out.println("Jene");
          System.out.println("Lilee");
          System.out.println("Whin");
-         System.out.println("Non ohh");
+         System.out.println("Non");
          System.out.println("Youyou");
          System.out.println("Boom See");
          System.out.println("Boom Kay");

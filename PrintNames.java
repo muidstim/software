@@ -7,7 +7,7 @@ public class PrintNames {
     
          System.out.println("Mr.Bocan");
          System.out.println("Bot");
-         System.out.println("Jene");
+         System.out.println("Jean");
          System.out.println("Lilee");
          System.out.println("Whin");
          System.out.println("Non ohh");

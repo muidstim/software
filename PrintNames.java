@@ -18,7 +18,7 @@ public class PrintNames {
          System.out.println("Pum");
          System.out.println("Poursh");
          System.out.println("Sun");
-         System.out.println("Pohn");
+         System.out.println("Phon");
          System.out.println("Cowpoon");
          System.out.println("Aum");
     }

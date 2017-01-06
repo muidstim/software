@@ -16,7 +16,7 @@ public class PrintNames {
          System.out.println("Boom Kay");
          System.out.println("Jaymes");
          System.out.println("Pum");
-         System.out.println("Poursh");
+         System.out.println("Porsche");
          System.out.println("Sun");
          System.out.println("Pohn");
          System.out.println("Cowpoon");

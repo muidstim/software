@@ -17,7 +17,7 @@ public class PrintNames {
          System.out.println("Porsche");
          System.out.println("Pun (Da Cutest Guy Evarrr!)");
          System.out.println("Son");
-         System.out.println("Pohn");
+         System.out.println("Phon");
          System.out.println("Khaowpoon");
          System.out.println("Aom");
          System.out.println("Hack");

@@ -5,7 +5,7 @@ public class PrintNames {
      *
      */
     public static void printYourNames() {
-         System.out.println("Intellij");
+         System.out.println("Intellij2");
          System.out.println("Bat");
          System.out.println("Jean");
          System.out.println("Lily");

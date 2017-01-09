@@ -5,7 +5,7 @@ public class PrintNames {
      *
      */
     public static void printYourNames() {
-         System.out.println("yo");
+         System.out.println("github");
          System.out.println("Bat");
          System.out.println("Jean");
          System.out.println("Lily");

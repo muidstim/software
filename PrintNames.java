@@ -5,7 +5,11 @@ public class PrintNames {
      *
      */
     public static void printYourNames() {
+<<<<<<< Updated upstream
          System.out.println("Bacon@@@@@!!!!!!!!!!!!!!");
+=======
+         System.out.println("Mr. Bacon");
+>>>>>>> Stashed changes
          System.out.println("Bat");
          System.out.println("Jean");
          System.out.println("Lily");

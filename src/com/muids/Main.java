@@ -8,10 +8,9 @@ public class Main {
 
     public static void main(String args[]) throws Exception {
 
-        //sendTweet("Hello it's me #muidstim");
-        readHomeTimeline();
-        readUserTimeline("@realDonaldTrump");
-        searchTweets("Mahidol");
+        //Use the methods below to send tweets and read them
+        
+        //Put your code here
     }
 
     /*

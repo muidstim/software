@@ -11,6 +11,8 @@ public class Main {
         //Use the methods below to send tweets and read them
         
         //Put your code here
+        sendTweet("Hello! #muidstim");
+
     }
 
     /*
